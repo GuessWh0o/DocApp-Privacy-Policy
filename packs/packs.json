@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "ua",
+      "name": "Україна",
+      "lang": "uk",
+      "country": "ua",
+      "systems": ["achi", "icd10"],
+      "version": "1.0.0",
+      "sizeBytes": 522968,
+      "url": "https://github.com/GuessWh0o/DocApp-Privacy-Policy/releases/download/packs/ua.zip",
+      "sha256": "547ff43a3c5e9214d8d6123a56d022eb0ae4ac1a582dd6796d76d6717f521780",
+      "compressed": "zip"
+    }
+  ]
+}
