@@ -9,8 +9,8 @@
       "systems": ["achi", "icd10"],
       "version": "1.0.0",
       "sizeBytes": 522968,
-      "url": "https://github.com/GuessWh0o/DocApp-Privacy-Policy/releases/download/packs/ua.zip",
-      "sha256": "547ff43a3c5e9214d8d6123a56d022eb0ae4ac1a582dd6796d76d6717f521780",
+      "url": "https://github.com/GuessWh0o/DocApp-Privacy-Policy/releases/download/v1.0.0/ua.zip",
+      "sha256": "e55cd668c6b5f388968e648eaf52d39f213425f08f23c9adead705f57a49f0d8",
       "compressed": "zip"
     }
   ]
