@@ -1,0 +1,10 @@
+# IDE
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Local maintainer tooling (not published)
+packs/build_ua.sh
+packs/.stage_ua/
